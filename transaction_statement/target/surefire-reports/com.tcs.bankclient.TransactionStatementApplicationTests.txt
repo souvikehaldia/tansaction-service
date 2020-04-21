@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tcs.bankclient.TransactionStatementApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 164.665 s - in com.tcs.bankclient.TransactionStatementApplicationTests
